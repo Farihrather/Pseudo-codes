@@ -1,6 +1,6 @@
 Write a pseudocode to calculate the area of a rectangle
     Procedure AreaOfRectangle
-        Radius = r
-            area = 3.14 * r * r
+        intl,b
+            area = l * b
         PRINT area
     End Procedure
